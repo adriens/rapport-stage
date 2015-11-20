@@ -521,8 +521,7 @@ toute façon lors de la **soutenance**.
 
 ## Conclusion du projet
 
-Ce projet s'est dans l'ensemble bien déroulés, malgré une tendance à **"l'improvisation"**
-m'ayant valu quelques souci lors du déploiement de l'application. Même si tout les tache
+Ce projet s'est dans l'ensemble bien déroulés. Même si tout les tache
 qui m'ont été attrbué ont pu être effectué à **temps**, sa gestion fut quelque chose d'assez
 délicat.
 
